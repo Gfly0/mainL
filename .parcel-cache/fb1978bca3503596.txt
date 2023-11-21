@@ -1,8 +1,8 @@
 5956
+47/home/check/Downloads/gulpFinal/dist/index.html1700580617675881232 0
 58/home/check/Downloads/gulpFinal/dist/index.47b31015.js.map1700579698350924270 0
 59/home/check/Downloads/gulpFinal/dist/index.397a9300.css.map1700579698350924270 0
 55/home/check/Downloads/gulpFinal/dist/index.397a9300.css1700579698343924209 0
-47/home/check/Downloads/gulpFinal/dist/index.html1700579698342924201 0
 49/home/check/Downloads/gulpFinal/package-lock.json1700578849633110227 0
 73/home/check/Downloads/gulpFinal/node_modules/posthtml/types/posthtml.d.ts1700578586825453188 0
 59/home/check/Downloads/gulpFinal/node_modules/posthtml/types1700578586810453093 1
@@ -1050,7 +1050,7 @@
 73/home/check/Downloads/gulpFinal/node_modules/.bin/download-lmdb-prebuilds1700578588856465994 0
 88/home/check/Downloads/gulpFinal/node_modules/update-browserslist-db/check-npm-version.js1700578586653452103 0
 76/home/check/Downloads/gulpFinal/node_modules/caniuse-lite/data/regions/KZ.js1700578587926460130 0
-36/home/check/Downloads/gulpFinal/dist1700579698351924278 1
+36/home/check/Downloads/gulpFinal/dist1700580617676881241 1
 71/home/check/Downloads/gulpFinal/node_modules/css-select/lib/sort.js.map1700578587245455836 0
 75/home/check/Downloads/gulpFinal/node_modules/update-browserslist-db/LICENSE1700578585793446681 0
 73/home/check/Downloads/gulpFinal/node_modules/posthtml-render/package.json1700578586697452381 0
@@ -2416,7 +2416,7 @@
 69/home/check/Downloads/gulpFinal/node_modules/node-addon-api/README.md1700578587088454846 0
 68/home/check/Downloads/gulpFinal/node_modules/react-refresh/README.md1700578586912453736 0
 88/home/check/Downloads/gulpFinal/node_modules/css-tree/cjs/syntax/function/expression.cjs1700578587235455773 0
-46/home/check/Downloads/gulpFinal/src/index.html1700574398056319032 0
+46/home/check/Downloads/gulpFinal/src/index.html1700580600953731942 0
 63/home/check/Downloads/gulpFinal/node_modules/chokidar/README.md1700578336165467644 0
 113/home/check/Downloads/gulpFinal/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeDimensions.js1700578587242455817 0
 79/home/check/Downloads/gulpFinal/node_modules/caniuse-lite/data/features/zstd.js1700578588062460987 0
@@ -3904,7 +3904,7 @@
 79/home/check/Downloads/gulpFinal/node_modules/@parcel/core/lib/resolveOptions.js1700578587643458345 0
 79/home/check/Downloads/gulpFinal/node_modules/@parcel/core/lib/serializerCore.js1700578587667458497 0
 82/home/check/Downloads/gulpFinal/node_modules/@parcel/core/lib/SymbolPropagation.js1700578587679458572 0
-31/home/check/Downloads/gulpFinal1700579698332924115 1
+31/home/check/Downloads/gulpFinal1700579710587029843 1
 77/home/check/Downloads/gulpFinal/node_modules/@parcel/utils/src/escape-html.js1700578587048454594 0
 79/home/check/Downloads/gulpFinal/node_modules/@parcel/core/lib/Transformation.js1700578587730458894 0
 70/home/check/Downloads/gulpFinal/node_modules/@parcel/core/lib/types.js1700578587734458919 0
